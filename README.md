@@ -1,7 +1,7 @@
 # Mixed Messages
 
 ## Overview
-This is the first Portfolio Project I have completed as part of the CodeCademy Full Stack Pathway.
+This is the first official Portfolio Project I have completed as part of the CodeCademy Full Stack Pathway.
 The aim was to build a message generator program.
 Every time the program is run, there should be a new, randomized output - which was required to consist of at least three pieces of data. 
 Suggested examples included:
