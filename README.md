@@ -9,7 +9,7 @@ Suggested examples included:
 - inspirational messages
 - nonsensical jokes. 
 
-#### Project Objectives:
+#### Project Objectives
 - Build a message generator program using JavaScript
 - Use Git version control
 - Use command line
