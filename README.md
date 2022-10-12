@@ -13,7 +13,7 @@ Suggested examples included:
 - Build a message generator program using JavaScript
 - Use Git version control
 - Use command line
-- Develop locally on your computer
+- Develop locally on my computer
 
 ## Features
 A simple message generator - *rubbishJokeGenerator()*.
